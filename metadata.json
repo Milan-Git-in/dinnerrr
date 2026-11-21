@@ -1,0 +1,6 @@
+{
+  "name": "Campus Dining",
+  "description": "Daily hostel mess subscriptions, meal schedule calendar, and late-night campus cravings delivery.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
